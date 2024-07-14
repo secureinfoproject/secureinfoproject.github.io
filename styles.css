@@ -1,0 +1,399 @@
+	
+
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * quiet-sans:
+ *   - http://typekit.com/eulas/00000000000000007735c411
+ *   - http://typekit.com/eulas/00000000000000007735c413
+ *   - http://typekit.com/eulas/00000000000000007735c415
+ *   - http://typekit.com/eulas/00000000000000007735c417
+ *   - http://typekit.com/eulas/00000000000000007735c419
+ *   - http://typekit.com/eulas/00000000000000007735c41d
+ *   - http://typekit.com/eulas/00000000000000007735c421
+ *   - http://typekit.com/eulas/00000000000000007735c425
+ *   - http://typekit.com/eulas/00000000000000007735c429
+ *   - http://typekit.com/eulas/00000000000000007735c42d
+ *   - http://typekit.com/eulas/00000000000000007735c431
+ *   - http://typekit.com/eulas/00000000000000007735c434
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-07-03 15:12:04 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=pib8zuw&ht=tk&f=37256.37257.37258.37259.37260.37261.37262.37263.37264.37265.37266.37267&a=47871340&app=typekit&e=css");
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/afc76b/00000000000000007735c411/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("woff2"),url("https://use.typekit.net/af/afc76b/00000000000000007735c411/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("woff"),url("https://use.typekit.net/af/afc76b/00000000000000007735c411/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/a69140/00000000000000007735c413/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff2"),url("https://use.typekit.net/af/a69140/00000000000000007735c413/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff"),url("https://use.typekit.net/af/a69140/00000000000000007735c413/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/683650/00000000000000007735c415/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/683650/00000000000000007735c415/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/683650/00000000000000007735c415/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/51fbb0/00000000000000007735c417/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/51fbb0/00000000000000007735c417/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/51fbb0/00000000000000007735c417/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/973323/00000000000000007735c419/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/973323/00000000000000007735c419/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/973323/00000000000000007735c419/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/79e593/00000000000000007735c41d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/79e593/00000000000000007735c41d/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/79e593/00000000000000007735c41d/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/f20f96/00000000000000007735c421/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/f20f96/00000000000000007735c421/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/f20f96/00000000000000007735c421/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/561734/00000000000000007735c425/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/561734/00000000000000007735c425/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/561734/00000000000000007735c425/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/6005f3/00000000000000007735c429/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/6005f3/00000000000000007735c429/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/6005f3/00000000000000007735c429/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/182e24/00000000000000007735c42d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/182e24/00000000000000007735c42d/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/182e24/00000000000000007735c42d/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/5b7f49/00000000000000007735c431/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"),url("https://use.typekit.net/af/5b7f49/00000000000000007735c431/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"),url("https://use.typekit.net/af/5b7f49/00000000000000007735c431/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"quiet-sans";
+src:url("https://use.typekit.net/af/3a0a74/00000000000000007735c434/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("woff2"),url("https://use.typekit.net/af/3a0a74/00000000000000007735c434/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("woff"),url("https://use.typekit.net/af/3a0a74/00000000000000007735c434/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+.tk-quiet-sans { font-family: "quiet-sans",sans-serif; }
+
+.bg {
+    background-color: rgba(255, 223, 0, 0.03);
+}
+
+h1 {
+    font-family: quiet-sans, sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+body {
+    font-family: quiet-sans, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    overflow-x: hidden; /* Prevents horizontal scroll */
+}
+
+img {
+    opacity:1;
+    align-items: center;
+    width:100%;
+    height: auto;
+}
+
+header {
+    padding: 1rem 0;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.gradient {
+    background: linear-gradient(to bottom, rgba(255, 223, 0, 0.6), #ffffff);
+    opacity: 1;
+    height: 150px;
+    background-color: rgba(255, 223, 0, 0.03);
+}
+
+.up-gradient{
+    background: linear-gradient(to top, rgba(255, 223, 0, 0.6), #ffffff);
+    opacity: 1;
+    height: 150px;  
+}
+
+footer {
+    text-align: center;
+    padding: 2rem 0;
+    height: 150px;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+
+section {
+    margin-bottom: 2rem;
+}
+
+.parent-container {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    width: 90%;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.thin-container {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    width: 80%;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.crunched-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 90%;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.grad {
+    background: linear-gradient(to top,#ffffff, #ffdf00, #ffffff);
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.fade-in.visible {
+    opacity: 1;
+}
+
+.three-columns {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    width: 90%;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background: #fffffd;
+}
+
+.mini-three-columns {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    width: 90%;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 0px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+    text-align: center;
+    background:"";
+}
+
+.three-columns-blend {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    width: 80%;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.two-columns {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.column {
+    flex: 1;
+    max-width: 300px;
+    margin: 0 1rem;
+}
+
+.fifty-column {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 0px solid #ccc;
+    text-align: center;
+}
+
+.column img {
+    max-width: 100%;
+    height: auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: auto; /* Creates rows for each grid item */
+    margin-top: 2rem;
+    width: 90%;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 0px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+    text-align: center;
+    background:"";
+    row-gap: 10px; /* Adds vertical spacing between rows */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.horiz-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    column-gap: 10px;
+    margin-top: 2rem;
+    width: 90%;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 0px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+    text-align: center;
+    background:"";
+}
+
+.grid-item {
+    padding: 20px;
+    border: 0px solid #ccc;
+}
+
+p {
+    font-weight: 300;
+}
+
+.smol {
+    font-weight: 200;
+}
+
+.fade-in-text {
+    opacity: 0;
+    transition: opacity 2s ease-in-out;
+}
+
+body:hover .fade-in-text {
+    opacity: 1;
+}
+
+.standard-button {
+    background-color: #0468A0; /* Green background */
+    border: none;             /* Remove default border */
+    color: white;             /* White text */
+    padding: 15px 32px;       /* Padding for size */
+    text-align: center;       /* Center text */
+    text-decoration: none;    /* Remove underline */
+    display: inline-block;    /* Make it inline-block */
+    font-size: 16px;          /* Font size */
+    margin: 2px 2px; 
+    font-weight: 900;         /* Margin around button */
+    cursor: pointer;          /* Pointer cursor on hover */
+    border-radius: 4px;       /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition */
+    box-shadow: 10 10 10px rgba(0, 0, 0, .4);
+
+}
+
+.standard-button:hover {
+    background-color: #27aae1; /* Darker green on hover */
+}
+
+.slide-in-text {
+    position: relative;
+    animation: slide-in 3s forwards;
+    font-size: 24px;
+    white-space: nowrap; /* Prevents text from wrapping */
+}
+
+@keyframes slide-in {
+    0% {
+        left: -100%;
+    }
+    100% {
+        left: 0;
+        text-align: right; /* Align text to the right */
+    }
+}
+
+.delayed-text {
+    opacity: 0;
+    font-size: 24px;
+    animation: appear 2s 1.1s forwards; /* 2s duration, 1s delay */
+}
+
+@keyframes appear {
+    to {
+        opacity: 1;
+    }
+}
+
+
