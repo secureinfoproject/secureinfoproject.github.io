@@ -98,7 +98,9 @@ src:url("https://use.typekit.net/af/3a0a74/00000000000000007735c434/30/l?primer=
 font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
 }
 
-.tk-quiet-sans { font-family: "quiet-sans",sans-serif; }
+.tk-quiet-sans {
+    font-family: "quiet-sans",sans-serif; 
+}
 
 .bg {
     background-color: rgba(255, 223, 0, 0.03);
@@ -108,7 +110,13 @@ h1 {
     font-family: quiet-sans, sans-serif;
     font-size: 30px;
     font-weight: 200;
-    line-height: 1.5;
+    line-height: 1;
+}
+
+h3 {
+    font-family: quiet-sans, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
 }
 
 body {
@@ -173,7 +181,7 @@ nav ul li a {
 }
 
 main {
-    padding: 2rem;
+    padding: 1rem;
     text-align: center;
     justify-content: center;
     width: 80%;
@@ -183,7 +191,7 @@ main {
 
 
 section {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .parent-container {
@@ -229,7 +237,7 @@ section {
 .three-columns {
     display: flex;
     justify-content: space-around;
-    margin-top: 2rem;
+    margin-top: 1rem;
     width: 90%;
     max-width: 90%;
     margin: 0 auto;
@@ -242,7 +250,7 @@ section {
 .mini-three-columns {
     display: flex;
     justify-content: space-around;
-    margin-top: 2rem;
+    margin-top: 1rem;
     width: 90%;
     max-width: 90%;
     margin: 0 auto;
@@ -255,7 +263,7 @@ section {
 .three-columns-blend {
     display: flex;
     justify-content: space-around;
-    margin-top: 2rem;
+    margin-top: 1rem;
     width: 80%;
     max-width: 80%;
     margin: 0 auto;
@@ -297,7 +305,7 @@ section {
 .grid-container {
     display: grid;
     grid-template-rows: auto; /* Creates rows for each grid item */
-    margin-top: 2rem;
+    margin-top: 1rem;
     width: 90%;
     max-width: 90%;
     margin: 0 auto;
@@ -313,7 +321,7 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr; 
     column-gap: 10px;
-    margin-top: 2rem;
+    margin-top: 1rem;
     width: 90%;
     max-width: 90%;
     margin: 0 auto;
@@ -323,6 +331,11 @@ section {
     background:"";
 }
 
+.icon-grid-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 00px;
+}
 .grid-item {
     padding: 20px;
     border: 0px solid #ccc;
